@@ -1,5 +1,4 @@
 # pos-arch
-Pos Install ArchLinux
 
 			Termo de Responsabilidade (B R A Z I L)
 
